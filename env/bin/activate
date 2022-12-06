@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/vav/NOVA/DataBases/Project/SRD_project/env"
+VIRTUAL_ENV="/Users/vav/NOVA/DataBases/Project/SRD_project-1/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
